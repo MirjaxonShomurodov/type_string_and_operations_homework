@@ -1,4 +1,7 @@
 def main(first,last):
+    first=" Mirjaxon"
+    last="Shomurodov"
+    son=last+first
     """
     Given two strings, first_name and last_name, return a single string in the format "last, first".
     Args:
@@ -7,4 +10,5 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return 
+    return son
+print(main("Shomurodov"," Mirjaxon"))
