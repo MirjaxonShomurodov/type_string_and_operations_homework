@@ -7,4 +7,8 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    return 
+    x=4
+    y=8
+    son="{}+{}={}".format(x,y,x+y)
+    return son 
+print(main(4,8))
