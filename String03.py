@@ -6,4 +6,7 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a=len("salom")
+    
+    return a*"*"
+print(main())
