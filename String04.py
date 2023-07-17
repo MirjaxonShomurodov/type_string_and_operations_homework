@@ -6,5 +6,8 @@ def main():
     Returns:
         str: return answer.
     """
-    s = "s"
-    return 
+    s1 = "s"
+    b="assalom"
+    son=s1+b+s1
+    return son 
+print(main())
