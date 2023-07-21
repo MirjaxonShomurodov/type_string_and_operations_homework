@@ -7,5 +7,4 @@ def main():
         str: return answer.
     """
     return ("123456789")
-       
-    print(main())
+print(main())
