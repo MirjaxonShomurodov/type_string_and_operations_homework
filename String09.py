@@ -8,8 +8,6 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    x1=1
-    x2=2
-    x3=3
-    return "[1,2,3]"
+    answer=f"[{x1},{x2},{x3}]"
+    return answer
 print(main(1,2,3))
