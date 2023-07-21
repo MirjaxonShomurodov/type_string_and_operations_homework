@@ -6,6 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    son=("Mirjaxon")
-    return (len(son))
-print(main())
+    return ("123456789")
+       
+    print(main())
