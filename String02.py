@@ -6,4 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    son="Mirjaxon"
+    return son.upper()
+print(main())
